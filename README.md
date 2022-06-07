@@ -1,5 +1,8 @@
+![Uploading Hello-01.jpg…]()
+
 - 👋 Hi, this is @HsiaooooooJu
 - 🌱 I’m currently learning HTML / CSS / Javascript
+- 👀  I’m looking for Frontend Developer based in Taipei or remote.
 - 📫 kelllllyko@gmail.com
 
 <!---
