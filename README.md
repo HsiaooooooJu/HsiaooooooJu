@@ -1,4 +1,3 @@
-![Uploading Hello-01.jpg…]()
 
 - 👋 Hi, this is @HsiaooooooJu
 - 🌱 I’m currently learning HTML / CSS / Javascript
