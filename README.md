@@ -3,8 +3,8 @@
 </p>
   
 - 👋 Hi, this is @HsiaooooooJu
-- 🌱 I’m currently learning HTML / CSS / Javascript
-- 👀  I’m looking for Frontend Developer based in Taipei or remote.
+- 🌱 Frontend newbie since March, 2023
+- 👀 I’m looking for Frontend Developer based in Taipei or remote
 - 📫 kelllllyko@gmail.com
 
 <!---
